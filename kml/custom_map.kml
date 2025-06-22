@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>ポスター掲示場</name>
+    <NetworkLink>
+      <name>ポスター掲示場</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1Vlz8hFQcUlOru9g9kFRW38JWbuv8_fk&lid=G_9tgHmukfY]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
